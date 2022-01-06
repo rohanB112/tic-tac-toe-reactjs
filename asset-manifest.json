@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe/static/css/main.819ee90f.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.a39503c4.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.a39503c4.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.ca8038e9.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.ca8038e9.js.map",
+    "static/css/2.90ab0884.chunk.css": "/tic-tac-toe/static/css/2.90ab0884.chunk.css",
+    "static/js/2.032d4a6e.chunk.js": "/tic-tac-toe/static/js/2.032d4a6e.chunk.js",
+    "static/js/2.032d4a6e.chunk.js.map": "/tic-tac-toe/static/js/2.032d4a6e.chunk.js.map",
+    "static/js/3.a5709834.chunk.js": "/tic-tac-toe/static/js/3.a5709834.chunk.js",
+    "static/js/3.a5709834.chunk.js.map": "/tic-tac-toe/static/js/3.a5709834.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "static/css/2.90ab0884.chunk.css.map": "/tic-tac-toe/static/css/2.90ab0884.chunk.css.map",
+    "static/css/main.819ee90f.chunk.css.map": "/tic-tac-toe/static/css/main.819ee90f.chunk.css.map",
+    "static/js/2.032d4a6e.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.032d4a6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca8038e9.js",
+    "static/css/2.90ab0884.chunk.css",
+    "static/js/2.032d4a6e.chunk.js",
+    "static/css/main.819ee90f.chunk.css",
+    "static/js/main.a39503c4.chunk.js"
+  ]
+}
